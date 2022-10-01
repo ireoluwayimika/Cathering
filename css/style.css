@@ -1,0 +1,143 @@
+h1{
+  font-weight: lighter;
+  color: black;
+  letter-spacing: 5px;
+}
+h2{
+  font-weight: lighter;
+  font-size: 28px;
+    letter-spacing: 5px;
+}
+h4{
+  color: black;
+  font-weight: lighter;
+  letter-spacing: 5px;
+}
+h6{
+  font-size: 20px;
+  padding-bottom: 5px;
+  font-weight: lighter;
+letter-spacing: 5px;
+}
+h5{
+  color: grey;
+  font-size: 20px;
+}
+hr{
+  width: 80%;
+  color: grey;
+}
+a{
+  text-decoration: none;
+  color: grey;
+  font-size: 15px;
+  line-height: 1.5;
+  padding: 8px;
+}
+span{
+  padding-left: 900px;
+
+}
+input{
+  height: 50px;
+}
+button{
+  height: 45px;
+  width: 150px;
+  margin:15px 0;
+  text-transform: uppercase;
+}
+/*first section*/
+.le-catering{
+  height: 800px;
+  margin-top: 25px;
+  margin-left: 0;
+  margin-right: 0;
+
+  background-image: url(../images/hamburger.jpg);
+  background-repeat: no-repeat;
+
+}
+.first{
+  padding: 730px 0 0 30px;
+  color: grey;
+font-size: 20px;
+}
+/*second section*/
+
+.about-table {
+  padding: 60px 150px;
+  line-height: 2;
+  text-align: center;
+  font-size: 20px;
+}
+.about-img{
+  height: 600px;
+  width: 500px;
+  padding-right: 40px;
+
+}
+/*menu section*/
+
+.menu-table{
+  padding: 60px 150px;
+  text-align: left;
+  line-height: 2;
+  color: grey;
+  font-size: 20px;
+}
+.menu-img{
+  height: 600px;
+  width: 500px;
+  padding-left: 40px;
+}
+.menu-head{
+  text-align: center;
+}
+/*contact section*/
+.contact{
+  padding: 10px 150px;
+line-height: 2;
+}
+.contact-us{
+  display: flex;
+  flex-direction: column;
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+  border-color: grey;
+  outline: none;
+
+
+}
+.contact-form{
+  width: 70%;
+  padding: 10px 150px;
+}
+/*navbar*/
+
+.navbar{
+  height: 25px;
+  font-size: 20px;
+  color: grey;
+
+}
+/*footer*/
+.footer{
+  background-color:#F2F2F2;
+  height: 100px;
+  text-align: center;
+
+}
+.bottom{
+  padding: 0;
+}
+.tag{
+  color: black;
+}
+.tag:hover{
+  color: white;
+}
+.end{
+  padding: 20px 0;
+}
